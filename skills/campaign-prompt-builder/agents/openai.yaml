@@ -1,0 +1,4 @@
+interface:
+  display_name: "campaign-prompt-builder"
+  short_description: "Modular social-banner workflow skill."
+  default_prompt: "Use campaign-prompt-builder for a social media banner."
