@@ -1,0 +1,4 @@
+interface:
+  display_name: "banner-copy-structure"
+  short_description: "Modular social-banner workflow skill."
+  default_prompt: "Use banner-copy-structure for a social media banner."
