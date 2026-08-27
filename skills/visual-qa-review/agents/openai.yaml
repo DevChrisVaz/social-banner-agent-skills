@@ -1,0 +1,4 @@
+interface:
+  display_name: "visual-qa-review"
+  short_description: "Modular social-banner workflow skill."
+  default_prompt: "Use visual-qa-review for a social media banner."
