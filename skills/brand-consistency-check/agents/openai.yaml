@@ -1,0 +1,4 @@
+interface:
+  display_name: "brand-consistency-check"
+  short_description: "Modular social-banner workflow skill."
+  default_prompt: "Use brand-consistency-check for a social media banner."
