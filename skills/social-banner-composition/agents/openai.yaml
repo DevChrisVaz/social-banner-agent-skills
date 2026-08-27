@@ -1,0 +1,4 @@
+interface:
+  display_name: "social-banner-composition"
+  short_description: "Modular social-banner workflow skill."
+  default_prompt: "Use social-banner-composition for a social media banner."
